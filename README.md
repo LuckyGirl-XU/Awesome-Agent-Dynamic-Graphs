@@ -13,16 +13,16 @@ This repository organizes papers on self-evolving agents, dynamic graph transfor
 
 ## News
 
-**[05/30/26]** Initial reading list released. The taxonomy follows Section III, Section IV, and Section V of the survey, with a separate benchmark section.
+**[05/30/26]** Initial reading list released. The taxonomy follows the survey structure, with a separate benchmark section.
 
 ## Table of Contents
 
-- [III. Agent Evolution as Dynamic Graph Transformation](#iii-agent-evolution-as-dynamic-graph-transformation)
+- [Agent Evolution as Dynamic Graph Transformation](#agent-evolution-as-dynamic-graph-transformation)
   - [Node and Feature Evolution](#node-and-feature-evolution)
   - [Edge and Topology Evolution](#edge-and-topology-evolution)
   - [Subgraph Activation](#subgraph-activation)
   - [Cross-Component Co-Evolution](#cross-component-co-evolution)
-- [IV. Dynamic Graph Learning as Agent-Evolution Infrastructure](#iv-dynamic-graph-learning-as-agent-evolution-infrastructure)
+- [Dynamic Graph Learning as Agent-Evolution Infrastructure](#dynamic-graph-learning-as-agent-evolution-infrastructure)
   - [Dynamic Graph Learning](#dynamic-graph-learning)
   - [Dynamic Text-Attributed Graphs](#dynamic-text-attributed-graphs)
   - [Dynamic Graph Generation](#dynamic-graph-generation)
@@ -32,8 +32,7 @@ This repository organizes papers on self-evolving agents, dynamic graph transfor
   - [Anomaly Detection on Dynamic Graphs](#anomaly-detection-on-dynamic-graphs)
   - [Dynamic Graph Unlearning](#dynamic-graph-unlearning)
   - [Explanation for Temporal GNNs](#explanation-for-temporal-gnns)
-  - [Lifecycle Interface : Putting Dynamic Graph Learning into Agent Evolution](#lifecycle-interface-putting-dynamic-graph-learning-into-agent-evolution)
-- [V. Graph-Aware Evaluation and Governance](#v-graph-aware-evaluation-and-governance)
+- [Graph-Aware Evaluation and Governance](#graph-aware-evaluation-and-governance)
   - [Graph-Aware Evaluation](#graph-aware-evaluation)
   - [Leakage-Free Temporal Protocols](#leakage-free-temporal-protocols)
   - [Privacy and Deletion in Evolving Agent Graphs](#privacy-and-deletion-in-evolving-agent-graphs)
@@ -47,7 +46,7 @@ This repository organizes papers on self-evolving agents, dynamic graph transfor
 
 Large language model agents are becoming long-running systems that store memories, use tools, acquire skills, refine workflows, and collaborate with other agents. This repository follows a dynamic-graph view of these systems: evolving agent state is represented through typed nodes, edges, features, subgraphs, and temporal rewrites.
 
-## III. Agent Evolution as Dynamic Graph Transformation
+## Agent Evolution as Dynamic Graph Transformation
 
 ![Agent evolution taxonomy](figs/agent-evolution.png)
 
@@ -213,7 +212,7 @@ Large language model agents are becoming long-running systems that store memorie
 
 ---
 
-## IV. Dynamic Graph Learning as Agent-Evolution Infrastructure
+## Dynamic Graph Learning as Agent-Evolution Infrastructure
 
 ![Dynamic graph learning infrastructure](figs/infrastructure.png)
 
@@ -342,26 +341,9 @@ Large language model agents are becoming long-running systems that store memorie
 | [DyExplainer: Self-explainable dynamic graph neural network with sparse attentions](https://doi.org/10.1145/3729173) | 2025 |
 | [Causality-inspired spatial-temporal explanations for dynamic graph neural networks](https://openreview.net/forum?id=AJBkfwXh3u) | 2024 |
 
-### Lifecycle Interface : Putting Dynamic Graph Learning into Agent Evolution
-
-| Paper | Year |
-| --- | --- |
-| [Temporal graph networks for deep learning on dynamic graphs](https://arxiv.org/abs/2006.10637) | 2020 |
-| [Unlocking multi-modal potentials for link prediction on dynamic text-attributed graphs](https://arxiv.org/abs/2502.19651) | 2026 |
-| [Anomaly detection in dynamic graphs via transformer](https://doi.org/10.1109/TKDE.2021.3124061) | 2021 |
-| [Slade: Detecting dynamic anomalies in edge streams without labels via self-supervised learning](https://doi.org/10.1145/3637528.3671861) | 2024 |
-| [Dynamic graph unlearning: a general and efficient post-processing method via gradient transformation](https://arxiv.org/abs/2405.14407) | 2025 |
-| [Spatio-Temporal Graph Unlearning](https://arxiv.org/abs/2511.09404) | 2025 |
-| [Explaining temporal graph models through an explorer-navigator framework](https://openreview.net/forum?id=BR_ZhvcYbGJ) | 2023 |
-| [Causality-inspired spatial-temporal explanations for dynamic graph neural networks](https://openreview.net/forum?id=AJBkfwXh3u) | 2024 |
-| [A Selective Learning Method for Temporal Graph Continual Learning](https://arxiv.org/abs/2503.01580) | 2025 |
-| [Dynamic graph neural networks under spatio-temporal distribution shift](https://doi.org/10.52202/068431-0440) | 2022 |
-| [Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization](https://doi.org/10.52202/075280-2164) | 2023 |
-| [Evolving Graph Learning for Out-of-Distribution Generalization in Non-stationary Environments](https://arxiv.org/abs/2511.02354) | 2025 |
-
 ---
 
-## V. Graph-Aware Evaluation and Governance
+## Graph-Aware Evaluation and Governance
 
 ### Graph-Aware Evaluation
 
