@@ -48,7 +48,7 @@ Large language model agents are becoming long-running systems that store memorie
 
 ## Agent Evolution as Dynamic Graph Transformation
 
-![Agent evolution taxonomy](figs/agent-evolution.png)
+![Agent evolution taxonomy](figs/agent-evolution-gpt-image2.png)
 
 ### Node and Feature Evolution
 
