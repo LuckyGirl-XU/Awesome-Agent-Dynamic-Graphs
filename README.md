@@ -95,7 +95,7 @@ Large language model agents are becoming long-running systems that store memorie
 | [AgentBoard: An analytical evaluation board of multi-turn LLM agents](https://arxiv.org/abs/2401.13178) | 2024 |
 | [AgentVerse: Facilitating multi-agent collaboration and exploring emergent behaviors](https://arxiv.org/abs/2308.10848) | 2024 |
 | [Temporal graph networks for deep learning on dynamic graphs](https://arxiv.org/abs/2006.10637) | 2020 |
-| [DyRep: Learning representations over dynamic graphs](https://arxiv.org/abs/1809.02699) | 2019 |
+| [DyRep: Learning representations over dynamic graphs](https://arxiv.org/abs/1803.04051) | 2019 |
 | [Unlocking multi-modal potentials for link prediction on dynamic text-attributed graphs](https://arxiv.org/abs/2502.19651) | 2026 |
 | [Dynamic graph unlearning: a general and efficient post-processing method via gradient transformation](https://arxiv.org/abs/2405.14407) | 2025 |
 | [AFlow: Automating agentic workflow generation](https://arxiv.org/abs/2410.10762) | 2025 |
@@ -137,7 +137,7 @@ Large language model agents are becoming long-running systems that store memorie
 | [Process mining manifesto](https://doi.org/10.1007/978-3-642-28108-2_19) | 2011 |
 | [The application of Petri nets to workflow management](https://doi.org/10.1142/S0218126698000043) | 1998 |
 | [Business process management: A comprehensive survey](https://doi.org/10.1155/2013/507984) | 2013 |
-| [Conformance checking of processes based on monitoring real behavior](https://doi.org/10.1016/j.is.2008.07.001) | 2008 |
+| [Conformance checking of processes based on monitoring real behavior](https://doi.org/10.1016/j.is.2007.07.001) | 2008 |
 | [From process mining to augmented process execution](https://doi.org/10.1007/s10270-023-01132-2) | 2023 |
 | [The vision of autonomic computing](https://doi.org/10.1109/MC.2003.1160055) | 2003 |
 | [Self-adaptive software: Landscape and research challenges](https://doi.org/10.1145/1516533.1516538) | 2009 |
@@ -166,7 +166,7 @@ Large language model agents are becoming long-running systems that store memorie
 | [HuggingGPT: Solving AI tasks with ChatGPT and its friends in Hugging Face](https://doi.org/10.52202/075280-1657) | 2023 |
 | [ChatDB: Augmenting LLMs with databases as their symbolic memory](https://arxiv.org/abs/2306.03901) | 2023 |
 | [Inductive representation learning on temporal graphs](https://openreview.net/forum?id=rJeW1yHYwH) | 2020 |
-| [TimeSGN: Scalable and effective temporal graph neural network](https://doi.org/10.1109/ICDE60146.2024.00133) | 2024 |
+| [TimeSGN: Scalable and effective temporal graph neural network](https://doi.org/10.1109/ICDE60146.2024.00255) | 2024 |
 | [AddGraph: Anomaly detection in dynamic graph using attention-based temporal GCN](https://www.ijcai.org/proceedings/2019/614) | 2019 |
 | [Anomaly detection in dynamic graphs via transformer](https://doi.org/10.1109/TKDE.2021.3124061) | 2021 |
 | [Slade: Detecting dynamic anomalies in edge streams without labels via self-supervised learning](https://doi.org/10.1145/3637528.3671861) | 2024 |
@@ -242,20 +242,20 @@ Large language model agents are becoming long-running systems that store memorie
 | [Towards better dynamic graph learning: New architecture and unified library](https://doi.org/10.52202/075280-2960) | 2023 |
 | [FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction](https://openreview.net/forum?id=82Mc5ilInM) | 2024 |
 | [Robust knowledge adaptation for dynamic graph neural networks](https://doi.org/10.1109/TKDE.2024.3388453) | 2024 |
-| [Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction](https://doi.org/10.1145/3637528.3671682) | 2024 |
+| [Co-Neighbor Encoding Schema: A Light-cost Structure Encoding Method for Dynamic Link Prediction](https://arxiv.org/abs/2407.20871) | 2024 |
 | [Retrieval augmented generation for dynamic graph modeling](https://doi.org/10.1145/3726302.3730030) | 2025 |
 | [Representation learning for dynamic graphs: A survey](https://jmlr.org/papers/v21/19-447.html) | 2020 |
 | [Foundations and modeling of dynamic networks using dynamic graph neural networks: A survey](https://doi.org/10.1109/ACCESS.2021.3082932) | 2021 |
-| [Graph neural networks for temporal graphs: State of the art, open challenges, and opportunities](https://openreview.net/forum?id=1GVpwr2Tfdg) | 2023 |
+| [Graph neural networks for temporal graphs: State of the art, open challenges, and opportunities](https://arxiv.org/abs/2302.01018) | 2023 |
 | [dyngraph2vec: Capturing network dynamics using dynamic graph representation learning](https://doi.org/10.1016/j.knosys.2019.06.024) | 2020 |
 | [DySAT: Deep neural representation learning on dynamic graphs via self-attention networks](https://arxiv.org/abs/1812.09430) | 2020 |
 | [EvolveGCN: Evolving graph convolutional networks for dynamic graphs](https://doi.org/10.1609/aaai.v34i04.5984) | 2020 |
 | [ROLAND: Graph learning framework for dynamic graphs](https://doi.org/10.1145/3534678.3539300) | 2022 |
 | [A novel representation learning for dynamic graphs based on graph convolutional networks](https://doi.org/10.1109/TCYB.2022.3159661) | 2022 |
-| [HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction](https://doi.org/10.1145/3543507.3583423) | 2023 |
-| [SEIGN: A Simple and Efficient Graph Neural Network for Large Dynamic Graphs](https://doi.org/10.1109/ICDE55515.2023.00206) | 2023 |
-| [An Attentional Multi-scale Co-evolving Model for Dynamic Link Prediction](https://doi.org/10.1145/3543507.3583358) | 2023 |
-| [Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks](https://doi.org/10.1609/aaai.v37i7.26004) | 2023 |
+| [HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction](https://arxiv.org/abs/2304.07302) | 2023 |
+| [SEIGN: A Simple and Efficient Graph Neural Network for Large Dynamic Graphs](https://doi.org/10.1109/ICDE55515.2023.00218) | 2023 |
+| [An Attentional Multi-scale Co-evolving Model for Dynamic Link Prediction](https://dl.acm.org/doi/10.1145/3543507.3583396) | 2023 |
+| [Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks](https://arxiv.org/abs/2208.10364) | 2023 |
 | [High-quality temporal link prediction for weighted dynamic graphs via inductive embedding aggregation](https://doi.org/10.1109/TKDE.2023.3238360) | 2023 |
 | [Event-based dynamic graph representation learning for patent application trend prediction](https://doi.org/10.1109/TKDE.2023.3312333) | 2023 |
 | [Simple and Efficient Heterogeneous Temporal Graph Neural Network](https://arxiv.org/abs/2510.18467) | 2025 |
@@ -278,8 +278,8 @@ Large language model agents are becoming long-running systems that store memorie
 | [TG-GAN: Continuous-time temporal graph deep generative models with time-validity constraints](https://doi.org/10.1145/3442381.3449818) | 2021 |
 | [A data-driven graph generative model for temporal interaction networks](https://doi.org/10.1145/3394486.3403082) | 2020 |
 | [TIGGER: Scalable generative modelling for temporal interaction graphs](https://doi.org/10.1609/aaai.v36i6.20638) | 2022 |
-| [A deep probabilistic framework for continuous time dynamic graph generation](https://ojs.aaai.org/index.php/AAAI/article/view/33456) | 2025 |
-| [Efficient dynamic attributed graph generation](https://doi.org/10.1109/ICDE65448.2025.00221) | 2025 |
+| [A deep probabilistic framework for continuous time dynamic graph generation](https://arxiv.org/abs/2412.15582) | 2025 |
+| [Efficient dynamic attributed graph generation](https://arxiv.org/abs/2412.08810) | 2025 |
 | [GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning](https://arxiv.org/abs/2507.03267) | 2025 |
 
 ### Continual Learning on Dynamic Graphs
@@ -288,7 +288,7 @@ Large language model agents are becoming long-running systems that store memorie
 | --- | --- |
 | [A Selective Learning Method for Temporal Graph Continual Learning](https://arxiv.org/abs/2503.01580) | 2025 |
 | [Overcoming catastrophic forgetting in graph neural networks with experience replay](https://doi.org/10.1609/aaai.v35i5.16602) | 2021 |
-| [A unified replay-based continuous learning framework for spatio-temporal prediction on streaming data](https://doi.org/10.1109/ICDE60146.2024.00232) | 2024 |
+| [A unified replay-based continuous learning framework for spatio-temporal prediction on streaming data](https://arxiv.org/abs/2404.14999) | 2024 |
 | [TOWARDS OPEN TEMPORAL GRAPH NEURAL NETWORKS](https://arxiv.org/abs/2303.15015) | 2023 |
 | [Continual learning on dynamic graphs via parameter isolation](https://doi.org/10.1145/3539618.3591652) | 2023 |
 
@@ -330,7 +330,7 @@ Large language model agents are becoming long-running systems that store memorie
 | [Anonymous Edge Representation for Inductive Anomaly Detection in Dynamic Bipartite Graph](https://doi.org/10.14778/3579075.3579088) | 2023 |
 | [AddGraph: Anomaly detection in dynamic graph using attention-based temporal GCN](https://www.ijcai.org/proceedings/2019/614) | 2019 |
 | [Anomaly detection in dynamic graphs via transformer](https://doi.org/10.1109/TKDE.2021.3124061) | 2021 |
-| [Slade: Detecting dynamic anomalies in edge streams without labels via self-supervised learning](https://doi.org/10.1145/3637528.3671861) | 2024 |
+| [Slade: Detecting dynamic anomalies in edge streams without labels via self-supervised learning](https://arxiv.org/abs/2402.11933) | 2024 |
 
 ### Dynamic Graph Unlearning
 
@@ -421,7 +421,7 @@ Large language model agents are becoming long-running systems that store memorie
 | [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard) | 2024 |
 | [DTGB: A comprehensive benchmark for dynamic text-attributed graphs](https://doi.org/10.52202/079017-2901) | 2024 |
 | [Unlocking multi-modal potentials for link prediction on dynamic text-attributed graphs](https://arxiv.org/abs/2502.19651) | 2026 |
-| [Retrieval augmented generation for dynamic graph modeling](https://doi.org/10.1145/3726302.3730030) | 2025 |
+| [Retrieval augmented generation for dynamic graph modeling](https://arxiv.org/abs/2408.14523) | 2025 |
 | [TG-GAN: Continuous-time temporal graph deep generative models with time-validity constraints](https://doi.org/10.1145/3442381.3449818) | 2021 |
 | [A data-driven graph generative model for temporal interaction networks](https://doi.org/10.1145/3394486.3403082) | 2020 |
 | [TIGGER: Scalable generative modelling for temporal interaction graphs](https://doi.org/10.1609/aaai.v36i6.20638) | 2022 |
