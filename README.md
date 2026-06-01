@@ -7,7 +7,9 @@
 
 This repository organizes papers on self-evolving agents, dynamic graph transformation, dynamic graph learning infrastructure, and graph-aware benchmarks.
 
-> Based on the survey: **Self-Evolving Agents as Dynamic Graph Transformation: A Survey and Roadmap**
+> Based on the survey: **Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective**
+
+> **Related Repository:** [Awesome Dynamic Graph Learning](https://github.com/LuckyGirl-XU/Awesome-DynamicGraphLearning)
 
 ![Framework overview](figs/overview.png)
 
@@ -381,6 +383,8 @@ Large language model agents are becoming long-running systems that store memorie
 | [Introducing SWE-bench Verified](https://openai.com/index/introducing-swe-bench-verified/) | 2024 |
 | [SWE-agent: Agent-computer interfaces enable automated software engineering](https://arxiv.org/abs/2405.15793) | 2024 |
 
+<sub><em>These related works highlight the necessity of Graph-Aware Evaluation.</em></sub>
+
 ### Leakage-Free Temporal Protocols
 
 | Paper | Year |
@@ -434,6 +438,8 @@ Large language model agents are becoming long-running systems that store memorie
 | [GNNDelete: A general strategy for unlearning in graph neural networks](https://arxiv.org/abs/2302.13406) | 2023 |
 | [Explaining temporal graph models through an explorer-navigator framework](https://openreview.net/forum?id=BR_ZhvcYbGJ) | 2023 |
 | [Causality-inspired spatial-temporal explanations for dynamic graph neural networks](https://openreview.net/forum?id=AJBkfwXh3u) | 2024 |
+
+<sub><em>These related works motivate our Open Challenges.</em></sub>
 
 ---
 
@@ -508,7 +514,7 @@ If you find this repository useful, please consider citing the survey paper:
 
 ```bibtex
 @misc{xu2026selfevolving,
-  title={Self-Evolving Agents as Dynamic Graph Transformation: A Survey and Roadmap},
+  title={Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective},
   author={Xu, Yuanyuan and Zhang, Wenjie and Chen, Yin and Lin, Xuemin and Zhang, Ying},
   year={2026},
   note={Manuscript}
