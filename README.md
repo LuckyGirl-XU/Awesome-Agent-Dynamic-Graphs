@@ -6,7 +6,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LuckyGirl-XU.Awesome-Agent-Dynamic-Graphs)
 
 
-> [!IMPORTANT]
+> [!NOTE]
 > This repository organizes papers for **Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective**, covering self-evolving agents, dynamic graph transformation, dynamic graph learning infrastructure, and related benchmarks.
 >
 > **Pure Dynamic Graph Learning Repository:** [Awesome Dynamic Graph Learning](https://github.com/LuckyGirl-XU/Awesome-DynamicGraphLearning)
