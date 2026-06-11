@@ -20,7 +20,7 @@
 
 **[06/11/26]** 🚀 Our survey ***Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective*** is now available on [ResearchGate](https://www.researchgate.net/publication/406927066_Self-Evolving_Agents_as_Dynamic_Graph_Transformation_A_Survey_and_New_Perspective/references). In this work, we provide a comprehensive survey and introduce a new perspective for discussing **Self-Evolving Agents** and **Dynamic Graph Learning**. We welcome contributions from these two communities to help expand and improve our survey 🤗!
 
-## Table of Contents
+## 📋 Table of Contents
 
 - [Agent Evolution as Dynamic Graph Transformation](#agent-evolution-as-dynamic-graph-transformation)
   - [Node and Feature Evolution](#node-and-feature-evolution)
@@ -53,11 +53,11 @@
 
 ---
 
-## Introduction
+## 🌟 Introduction
 
 Large language model agents are becoming long-running systems that store memories, use tools, acquire skills, refine workflows, and collaborate with other agents. This repository follows a dynamic-graph view of these systems: evolving agent state is represented through typed nodes, edges, features, subgraphs, and temporal rewrites.
 
-## Agent Evolution as Dynamic Graph Transformation
+## 🏗️ Agent Evolution as Dynamic Graph Transformation
 
 ![Agent evolution taxonomy](figs/agent-evolution-v2.png)
 
@@ -192,7 +192,7 @@ Large language model agents are becoming long-running systems that store memorie
 
 ---
 
-## Dynamic Graph Learning as Agent-Evolution Infrastructure
+## 🧠 Dynamic Graph Learning as Agent-Evolution Infrastructure
 
 ![Dynamic graph learning infrastructure](figs/infrastructure.png)
 
@@ -320,7 +320,7 @@ Large language model agents are becoming long-running systems that store memorie
 
 ---
 
-## Graph-Aware Evaluation and Governance
+## ⚙️ Graph-Aware Evaluation and Governance
 
 ![Graph-aware evaluation and governance](figs/graph-aware-evaluation-governance.png)
 
@@ -396,7 +396,7 @@ Large language model agents are becoming long-running systems that store memorie
 
 ---
 
-## Benchmarks
+## 📊 Benchmarks
 
 ![Benchmarks](figs/benchmarks.png)
 
@@ -461,19 +461,27 @@ Large language model agents are becoming long-running systems that store memorie
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-This collection is an ongoing effort. We welcome pull requests and issues for adding papers, fixing links, and improving categorization.
+This collection is an ongoing effort. We are actively expanding and refining its coverage, and welcome suggestions from the community. You can:
 
-## Citation
+* Open an issue to suggest additional papers or resources
+
+* Email us at [yuanyuan.xu@unsw.edu.au](mailto:yuanyuan.xu@unsw.edu.au), [yin.chen@student.uts.edu.au](mailto:yin.chen@student.uts.edu.au)
+
+We regularly update the repository to include new research works on self-evolving agents and dynamic graph transformation.
+
+## 📝 Citation
 
 If you find this repository useful, please consider citing the survey paper:
 
 ```bibtex
-@misc{xu2026selfevolving,
+@article{xu2026selfevolving,
   title={Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective},
   author={Xu, Yuanyuan and Zhang, Wenjie and Chen, Yin and Lin, Xuemin and Zhang, Ying},
+  journal={ResearchGate preprint},
   year={2026},
-  note={Manuscript}
+  doi={10.13140/RG.2.2.23286.36169}
 }
+
 ```
