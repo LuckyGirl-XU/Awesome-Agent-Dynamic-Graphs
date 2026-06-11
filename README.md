@@ -20,6 +20,8 @@
 
 **[06/08/26]** 📌 For readers interested in more dynamic graph learning methods, please refer to our related repository: [Awesome Dynamic Graph Learning](https://github.com/LuckyGirl-XU/Awesome-DynamicGraphLearning), which collects papers and resources on pure dynamic graph learning.
 
+---
+
 ## 📋 Table of Contents
 
 - [Agent Evolution as Dynamic Graph Transformation](#agent-evolution-as-dynamic-graph-transformation)
