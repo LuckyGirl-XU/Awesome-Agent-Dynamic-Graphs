@@ -15,9 +15,11 @@
 
 ![Framework overview](figs/overview.png)
 
-## News
+## 🔔 News
 
-**[05/30/26]** Initial reading list released. The taxonomy follows the survey structure, with a separate benchmark section.
+---
+
+**[06/11/26]** 🚀 Our survey ***Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective*** is now available on [ResearchGate](https://www.researchgate.net/publication/406927066_Self-Evolving_Agents_as_Dynamic_Graph_Transformation_A_Survey_and_New_Perspective/references). In this work, we provide a comprehensive survey and introduce a new perspective for discussing **Self-Evolving Agents** and **Dynamic Graph Learning**. We welcome contributions from these two communities to help expand and improve our survey 🤗!
 
 ## Table of Contents
 
