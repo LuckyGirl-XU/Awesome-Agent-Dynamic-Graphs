@@ -18,7 +18,7 @@
 
 **[06/11/26]** 🚀 Our survey ***Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective*** is now available on [ResearchGate](https://www.researchgate.net/publication/406927066_Self-Evolving_Agents_as_Dynamic_Graph_Transformation_A_Survey_and_New_Perspective/references). In this work, we provide a comprehensive survey and introduce a new perspective for discussing **Self-Evolving Agents** and **Dynamic Graph Learning**. We welcome contributions from these two communities to help expand and improve our survey 🤗!
 
-**[06/08/26]** 📌 For readers interested in more dynamic graph learning methods, please refer to our related repository: [Awesome Dynamic Graph Learning](https://github.com/LuckyGirl-XU/Awesome-DynamicGraphLearning), which collects papers and resources on pure dynamic graph learning.
+**[06/08/26]** 📌 For readers interested in **more dynamic graph learning methods**, please refer to our related repository: [Awesome Dynamic Graph Learning](https://github.com/LuckyGirl-XU/Awesome-DynamicGraphLearning), which collects papers and resources on pure dynamic graph learning.
 
 ---
 
