@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Paper-00CCBB.svg)](https://www.researchgate.net/publication/406927066_Self-Evolving_Agents_as_Dynamic_Graph_Transformation_A_Survey_and_New_Perspective)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#contributing)
-![Last Commit](https://img.shields.io/github/last-commit/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs)
+![Last Commit](https://img.shields.io/github/last-commit/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs?display_timestamp=author&style=flat&logo=git)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LuckyGirl-XU.Awesome-Agent-Dynamic-Graphs)
 
 
