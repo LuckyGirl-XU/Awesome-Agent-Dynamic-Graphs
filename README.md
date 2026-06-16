@@ -11,7 +11,6 @@
 > This repository organizes papers for **Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective**, covering self-evolving agents, dynamic graph transformation, dynamic graph learning as agent infrastructure, and related benchmarks.
 
 
-
 ![Framework overview](figs/overview.png)
 
 ## 🔔 News
