@@ -482,8 +482,8 @@ If you find this repository useful, please consider citing the survey paper:
   title={Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective},
   author={Xu, Yuanyuan and Zhang, Wenjie and Chen, Yin and Lin, Xuemin and Zhang, Ying},
   journal = {Preprints},
-	doi = {10.20944/preprints202606.1695.v1},
-	year = {2026}
+  doi = {10.20944/preprints202606.1695.v1},
+  year = {2026}
 }
 
 ```
