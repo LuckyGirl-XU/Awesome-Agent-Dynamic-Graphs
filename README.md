@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Paper-00CCBB.svg)](https://www.researchgate.net/publication/406927066_Self-Evolving_Agents_as_Dynamic_Graph_Transformation_A_Survey_and_New_Perspective)
-[![Preprints.org](https://img.shields.io/badge/Preprints.org-202606.1695-1f4e79.svg?logo=zenodo&logoColor=white)](https://www.preprints.org/manuscript/202606.1695)
+[![Preprints.org](https://img.shields.io/badge/Preprints.org-202606.1695-1f4e79.svg)](https://www.preprints.org/manuscript/202606.1695)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#contributing)
 ![Last Commit](https://img.shields.io/github/last-commit/LuckyGirl-XU/Awesome-Agent-Dynamic-Graphs?cacheSeconds=3600&logo=github)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LuckyGirl-XU.Awesome-Agent-Dynamic-Graphs)
