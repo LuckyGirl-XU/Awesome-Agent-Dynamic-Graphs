@@ -68,6 +68,11 @@ Large language model agents are becoming long-running systems that store memorie
 | Paper | Year |
 | --- | --- |
 | [Zep: A temporal knowledge graph architecture for agent memory](https://arxiv.org/abs/2501.13956) | 2025 |
+| [A-MEM: Agentic Memory for LLM Agents](https://proceedings.neurips.cc/paper_files/paper/2025/hash/19909c36f51abc4856b4560aff3d36d6-Abstract-Conference.html) | 2025 |
+| [MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents](https://aclanthology.org/2026.acl-long.1709/) | 2026 |
+| [APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI](https://aclanthology.org/2026.acl-long.749/) | 2026 |
+| [Structured Episodic Event Memory](https://aclanthology.org/2026.acl-long.277/) | 2026 |
+| [HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents](https://aclanthology.org/2026.acl-long.625/) | 2026 |
 | [ToolNet: Connecting large language models with massive tools via tool graph](https://arxiv.org/abs/2403.00839) | 2024 |
 | [SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716) | 2026 |
 | [A dynamic LLM-powered agent network for task-oriented agent collaboration](https://arxiv.org/abs/2310.02170) | 2024 |
