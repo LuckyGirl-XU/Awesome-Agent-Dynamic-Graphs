@@ -7,6 +7,8 @@ Papers and resources on **self-evolving agents through dynamic graph transformat
 
 [Read the Survey](https://arxiv.org/abs/2608.18104) · [Paper Explorer](https://luckygirl-xu.github.io/Awesome-Agent-Dynamic-Graphs/) · [Full Paper Lists](#full-paper-lists) · [Citation](#citation) · [Contributing](CONTRIBUTING.md)
 
+<p align="center"><a href="figs/agent-evolution-v2.png"><img src="figs/agent-evolution-v2.png" alt="Survey illustration of agent evolution through node and feature updates, topology changes, subgraph activation, and co-evolution" width="920"></a></p>
+
 ## The Survey
 
 **[Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective](https://arxiv.org/abs/2608.18104)**
@@ -16,13 +18,6 @@ Yuanyuan Xu, Wenjie Zhang, Yin Chen, Xuemin Lin, Ying Zhang · 2026
 We study agent evolution through changes to nodes, features, edges, and activated subgraphs, connecting agent mechanisms with dynamic graph learning and graph-aware evaluation.
 
 [arXiv](https://arxiv.org/abs/2608.18104) · [Preprints.org](https://www.preprints.org/manuscript/202606.1695) · [ResearchGate](https://www.researchgate.net/publication/406927066_Self-Evolving_Agents_as_Dynamic_Graph_Transformation_A_Survey_and_New_Perspective) · [References](https://www.researchgate.net/publication/406927066_Self-Evolving_Agents_as_Dynamic_Graph_Transformation_A_Survey_and_New_Perspective/references)
-
-<details>
-<summary>View the survey overview</summary>
-
-![Survey overview: self-evolving agents as dynamic graph transformation](figs/overview.png)
-
-</details>
 
 ## Getting Started
 
