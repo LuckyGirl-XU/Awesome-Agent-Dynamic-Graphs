@@ -88,6 +88,7 @@ def section_cards(data):
         count = sum(key in paper["sections"] for paper in data["papers"])
         result.append(f'''<article class="collection-card">
           <div class="collection-meta"><span>0{index}</span><span>{count} paper records · {len(section['topics'])} topics</span></div>
+          <a class="collection-figure" href="./{escape(section['figure'])}" target="_blank" rel="noopener noreferrer" aria-label="Open {escape(section['title'])} diagram"><img src="./{escape(section['figure'])}" alt="Diagram for {escape(section['title'])}" loading="lazy"></a>
           <h3><a href="?section={key}#paper-explorer">{escape(section['label'])}</a></h3>
           <p>{escape(descriptions[key])}</p>
           <div class="collection-actions"><a class="text-link" href="?section={key}#paper-explorer">Explore papers →</a><a href="{REPOSITORY}/blob/main/papers/{key}.md">Full paper list ↗</a></div>

@@ -59,6 +59,8 @@ class CatalogTests(unittest.TestCase):
             self.assertNotRegex(page, r"\{\{[A-Z_]+\}\}")
             for asset in ("app.js", "styles.css", "favicon.svg", "sitemap.xml", "figs/overview.png"):
                 self.assertTrue((output / asset).is_file(), asset)
+            self.assertEqual(page.count('class="collection-figure"'), 4)
+            self.assertEqual(page.count('<img src="./figs/'), 5)
 
     def test_markup_escapes_external_titles_and_urls(self):
         data = self.catalog.copy()
