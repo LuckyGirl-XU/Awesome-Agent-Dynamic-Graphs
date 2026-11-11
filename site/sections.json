@@ -1,0 +1,126 @@
+{
+  "agent-evolution": {
+    "title": "Agent Evolution as Dynamic Graph Transformation",
+    "label": "Agent evolution",
+    "figure": "figs/agent-evolution-v2.png",
+    "topics": [
+      {
+        "id": "node-and-feature-evolution",
+        "label": "Node and Feature Evolution"
+      },
+      {
+        "id": "edge-and-topology-evolution",
+        "label": "Edge and Topology Evolution"
+      },
+      {
+        "id": "subgraph-activation",
+        "label": "Subgraph Activation"
+      },
+      {
+        "id": "cross-component-co-evolution",
+        "label": "Cross-Component Co-Evolution"
+      }
+    ]
+  },
+  "graph-infrastructure": {
+    "title": "Dynamic Graph Learning as Agent-Evolution Infrastructure",
+    "label": "Graph infrastructure",
+    "figure": "figs/infrastructure.png",
+    "topics": [
+      {
+        "id": "dynamic-graph-representation-learning",
+        "label": "Dynamic Graph Representation Learning"
+      },
+      {
+        "id": "dynamic-text-attributed-graphs",
+        "label": "Dynamic Text-Attributed Graphs"
+      },
+      {
+        "id": "dynamic-graph-generation",
+        "label": "Dynamic Graph Generation"
+      },
+      {
+        "id": "continual-learning-on-dynamic-graphs",
+        "label": "Continual Learning on Dynamic Graphs"
+      },
+      {
+        "id": "out-of-distribution-generalization-on-dynamic-graphs",
+        "label": "Out-of-Distribution Generalization on Dynamic Graphs"
+      },
+      {
+        "id": "temporal-knowledge-graph-reasoning",
+        "label": "Temporal Knowledge Graph Reasoning"
+      },
+      {
+        "id": "anomaly-detection-on-dynamic-graphs",
+        "label": "Anomaly Detection on Dynamic Graphs"
+      },
+      {
+        "id": "dynamic-graph-unlearning",
+        "label": "Dynamic Graph Unlearning"
+      },
+      {
+        "id": "explanation-for-temporal-gnns",
+        "label": "Explanation for Temporal GNNs"
+      }
+    ]
+  },
+  "evaluation-governance": {
+    "title": "Graph-Aware Evaluation and Governance",
+    "label": "Evaluation & governance",
+    "figure": "figs/graph-aware-evaluation-governance.png",
+    "topics": [
+      {
+        "id": "graph-aware-evaluation",
+        "label": "Graph-Aware Evaluation"
+      },
+      {
+        "id": "leakage-free-temporal-protocols",
+        "label": "Leakage-Free Temporal Protocols"
+      },
+      {
+        "id": "privacy-and-deletion-in-evolving-agent-graphs",
+        "label": "Privacy and Deletion in Evolving Agent Graphs"
+      },
+      {
+        "id": "safety-rollback-and-audit",
+        "label": "Safety, Rollback, and Audit"
+      },
+      {
+        "id": "open-challenges",
+        "label": "Open Challenges"
+      }
+    ]
+  },
+  "benchmarks": {
+    "title": "Benchmarks",
+    "label": "Benchmarks",
+    "figure": "figs/benchmarks.png",
+    "topics": [
+      {
+        "id": "memory",
+        "label": "Memory"
+      },
+      {
+        "id": "tool-use",
+        "label": "Tool Use"
+      },
+      {
+        "id": "web--os",
+        "label": "Web & OS"
+      },
+      {
+        "id": "software",
+        "label": "Software"
+      },
+      {
+        "id": "safety",
+        "label": "Safety"
+      },
+      {
+        "id": "dynamic-graphs",
+        "label": "Dynamic Graphs"
+      }
+    ]
+  }
+}

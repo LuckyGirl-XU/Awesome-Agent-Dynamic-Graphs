@@ -1,0 +1,30 @@
+name: Suggest a paper or correction
+description: Add a resource or improve an existing entry.
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Paper title or entry
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Original source URL
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Collection
+      options:
+        - Agent Evolution
+        - Graph Infrastructure
+        - Evaluation and Governance
+        - Benchmarks
+        - Other
+  - type: textarea
+    id: details
+    attributes:
+      label: Relevance or correction
+      description: Describe how the paper fits the survey taxonomy, or explain the correction.
