@@ -46,7 +46,6 @@ Papers are organized by their role in the survey, including related foundations 
 ## Related Resources
 
 - [Awesome Temporal & Dynamic Graph Learning](https://github.com/LuckyGirl-XU/Awesome-DynamicGraphLearning) — methods, code, and benchmarks for temporal graph learning.
-- [Yuanyuan Xu's academic homepage](https://luckygirl-xu.github.io/) — publications and research updates.
 
 ## Contributing
 
